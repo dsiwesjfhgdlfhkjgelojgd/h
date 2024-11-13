@@ -1,4 +1,8 @@
 {
+    "forced":{
+        "Value":true,
+        "message":"test"
+    },
     "data":[
         "Maybe try going into a few portals?",
         "Have you tried searching for any secrets?",
