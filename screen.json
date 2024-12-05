@@ -149,16 +149,17 @@
                 "p1": {
                     "visible": true,
                     "text": "ラジオスリーゲートウェイ",
-                    "color": [255, 255, 255]
+                    "color": [0, 0, 0]
                 },
                 "p2": {
                     "visible": true,
                     "text": "<font color='#FF0000'>エターナルガーデン</font>",
-                    "color": [255, 255, 255]
+                    "color": [255, 0, 0]
                 },
                 "p3": {
-                    "visible": true,
-                    "color": [255, 255, 255]
+                    "visible": false,
+                    "text": "something might be broken",
+                    "color": [0, 0, 0]
                 },
                 "timer": {
                     "visible": true,
