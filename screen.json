@@ -157,7 +157,8 @@
             "timestamp": 1736121600
         },
         "egg": {
-            "forced": false,
+            "forced": true,
+            "forced2": true,
             "rarity": 1000,
             "megararity": 1000000,
             "visuals":{
