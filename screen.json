@@ -195,11 +195,12 @@
     },
     "special":{
         "event": {
+            "name": "christmas",
             "active": true,
             "timestamp": 1736121600
         },
         "egg": {
-            "forced": true,
+            "forced": false,
             "forced2": false,
             "rarity": 1000,
             "megararity": 1000000,
