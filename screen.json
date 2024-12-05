@@ -48,6 +48,16 @@
                 "rarity": 30,
                 "forced": false,
                 "time": 30
+            },
+            {
+                "message": {
+                    "p1": null,
+                    "p2": null,
+                    "p3": null
+                },
+                "rarity": 1,
+                "forced": false,
+                "time": 0
             }
         ],
         "time":10,
