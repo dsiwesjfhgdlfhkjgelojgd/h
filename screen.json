@@ -126,7 +126,7 @@
         },
         "timer": {
             "visible": false,
-            "color": [0, 0, 0]
+            "color": [255, 255, 255]
         },
         "background": {
             "visible": true,
@@ -162,7 +162,7 @@
                 },
                 "timer": {
                     "visible": true,
-                    "color": [0, 0, 0]
+                    "color": [64, 0, 255]
                 },
                 "background": {
                     "visible": true,
