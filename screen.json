@@ -1,4 +1,4 @@
-{
+[{
     "messages":{
         "override":{
             "forced":false,
@@ -176,4 +176,4 @@
         "power": true
     },
     "loaded": true
-}
+}]
