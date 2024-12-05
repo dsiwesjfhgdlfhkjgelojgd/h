@@ -158,7 +158,7 @@
         },
         "egg": {
             "forced": true,
-            "forced2": true,
+            "forced2": false,
             "rarity": 1000,
             "megararity": 1000000,
             "visuals":{
