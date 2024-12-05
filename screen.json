@@ -112,28 +112,28 @@
         "p1": {
             "visible": true,
             "text": "Event ends in",
-            "color": [255, 255, 255]
+            "color": "#FFFFFF"
         },
         "p2": {
             "visible": true,
             "text": "wow, such empty...",
-            "color": [255, 255, 255]
+            "color": "#FFFFFF"
         },
         "p3": {
             "visible": true,
             "text": "something might be broken",
-            "color": [111, 89, 159]
+            "color": "#6F599F"
         },
         "timer": {
             "visible": true,
-            "color": [255, 255, 255]
+            "color": "#FFFFFF"
         },
         "background": {
             "visible": true,
             "Video": "rbxassetid://5608384572",
             "SoundId": "rbxassetid://1846271108",
             "transparency": 0.6,
-            "color": [0, 0, 0]
+            "color": "#000000"
         }
     },
     "special":{
@@ -142,35 +142,35 @@
             "timestamp": 1736035200
         },
         "egg": {
-            "forced": false,
+            "forced": true,
             "rarity": 1000,
             "megararity": 1000000,
             "visuals":{
                 "p1": {
                     "visible": true,
                     "text": "ラジオスリーゲートウェイ",
-                    "color": [0, 0, 0]
+                    "color": "#000000"
                 },
                 "p2": {
                     "visible": true,
                     "text": "<font color='#FF0000'>エターナルガーデン</font>",
-                    "color": [255, 0, 0]
+                    "color": "#FF0000"
                 },
                 "p3": {
                     "visible": false,
                     "text": "something might be broken",
-                    "color": [0, 0, 0]
+                    "color": "#000000"
                 },
                 "timer": {
                     "visible": true,
-                    "color": [64, 0, 255]
+                    "color": "#4400FF"
                 },
                 "background": {
                     "visible": true,
                     "Video": "rbxassetid://5608411652",
                     "SoundId": "rbxassetid://18439818216",
                     "transparency": 0.6,
-                    "color": [255, 255, 255]
+                    "color": "#FFFFFF"
                 }
             }
         },
