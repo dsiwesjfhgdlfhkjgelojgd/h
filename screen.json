@@ -2,7 +2,11 @@
     "messages":{
         "override":{
             "forced":false,
-            "message":"human, i remember you're <font color='#FF0000'>crash meshes</font>"
+            "message":{
+                "p1":null,
+                "p2":"human, i remember you're <font color='#FF0000'>crash meshes</font>",
+                "p3":null
+            }
         },
         "rare":[
             {
