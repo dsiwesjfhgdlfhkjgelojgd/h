@@ -209,7 +209,7 @@
             "SoundId": "rbxassetid://1846271108",
             "transparency": 0.6,
             "color": "#000000"
-        },
+        }
     },
     "special":{
         "event": {
