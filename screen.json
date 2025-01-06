@@ -247,7 +247,7 @@
                     "visible": true,
                     "Video": "rbxassetid://5608411652",
                     "SoundId": "rbxassetid://18439818216",
-                    "transparency": 0.6,
+                    "transparency": 1,
                     "color": "#FFFFFF"
                 }
             }
