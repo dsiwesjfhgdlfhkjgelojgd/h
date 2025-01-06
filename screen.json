@@ -179,7 +179,7 @@
     "visuals":{
         "p1": {
             "visible": true,
-            "text": "Event ends in",
+            "text": "Awaiting next event...",
             "color": "#FFFFFF"
         },
         "p2": {
@@ -193,13 +193,13 @@
             "color": "#6F599F"
         },
         "timer": {
-            "visible": true,
+            "visible": false,
             "color": "#FFFFFF"
         },
         "background": {
             "visible": true,
-            "Video": "rbxassetid://5608384572",
-            "SoundId": "rbxassetid://1841342574",
+            "Video": "rbxassetid://5608413286",
+            "SoundId": "rbxassetid://1840684529",
             "transparency": 0.6,
             "color": "#000000"
         },
@@ -214,7 +214,7 @@
     "special":{
         "event": {
             "name": "christmas",
-            "active": true,
+            "active": false,
             "timestamp": 1736121600
         },
         "celebrationmk10":false,
