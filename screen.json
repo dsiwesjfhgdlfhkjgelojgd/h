@@ -219,7 +219,7 @@
         },
         "celebrationmk10":false,
         "egg": {
-            "forced": false,
+            "forced": true,
             "forced2": false,
             "rarity": 1000,
             "megararity": 1000000,
