@@ -1,24 +1,14 @@
 {
     "messages":{
         "override":{
-            "forced": false,
+            "forced": true,
             "message":{
-                "p1": null,
+                "p1": "",
                 "p2": "<font color='#FF0000'>The main branch of Admin House is currently taken down.</font>",
                 "p3": "<font color='#FF0000'>Join Admin House Community for updates on the matter.</font>"
             }
         },
         "rare":[
-            {
-                "message": {
-                    "p1": "<font color='#FF0000'>The main branch of Admin House is currently taken down.</font>",
-                    "p2": "<font color='#FF0000'>Join Admin House Community for updates on the matter.</font>",
-                    "p3": null
-                },
-                "rarity": 1,
-                "forced": true,
-                "time": 99999
-            },
             {
                 "message": {
                     "p1": "wow, such rare",
