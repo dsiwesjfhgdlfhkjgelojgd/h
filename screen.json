@@ -11,7 +11,7 @@
         "rare":[
             {
                 "message": {
-                    "p1": "",
+                    "p1": "<b><font color='#FF0000'>EMERGENCY ANNOUNCEMENT</font></b>",
                     "p2": "<font color='#FF0000'>The main branch of Admin House is currently taken down.</font>",
                     "p3": "<font color='#FF0000'>Join Admin House Community for updates on the matter.</font>"
                 },
