@@ -1,29 +1,19 @@
 {
     "messages":{
         "override":{
-            "forced": false,
+            "forced":true,
             "message":{
-                "p1": "",
-                "p2": "bruh",
-                "p3": ""
+                "p1":null,
+                "p2":"<font color='#FF0000'>The main branch of Admin House is currently taken down.\nJoin AHC for updates on this matter.</font>",
+                "p3":null
             }
         },
         "rare":[
             {
                 "message": {
-                    "p1": "<b><font color='#FF0000'>EMERGENCY ANNOUNCEMENT</font></b>",
-                    "p2": "<font color='#FF0000'>The main branch of Admin House is currently taken down.</font>",
-                    "p3": "<font color='#FF0000'>Join Admin House Community for updates on the matter.</font>"
-                },
-                "rarity": 5,
-                "forced": true,
-                "time": 99999
-            },
-            {
-                "message": {
-                    "p1": "wow, such rare",
-                    "p2": "<font color='#FF00FF'>This message is 1 in 1 million! Take a screenshot fast!</font>",
-                    "p3": null
+                    "p1":"wow, such rare",
+                    "p2":"<font color='#FF00FF'>This message is 1 in 1 million! Take a screenshot fast!</font>",
+                    "p3":null
                 },
                 "rarity": 1000000,
                 "forced": false,
@@ -208,8 +198,8 @@
         },
         "background": {
             "visible": true,
-            "Video": "rbxassetid://0",
-            "SoundId": "rbxassetid://13500581207",
+            "Video": "rbxassetid://5608413286",
+            "SoundId": "rbxassetid://1840684529",
             "transparency": 0.6,
             "color": "#000000"
         },
