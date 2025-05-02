@@ -1,10 +1,10 @@
 {
     "messages":{
         "override":{
-            "forced":true,
+            "forced":false,
             "message":{
                 "p1":null,
-                "p2":"<font color='#FF0000'>The main branch of Admin House is currently taken down.\nJoin AHC for updates on this matter.</font>",
+                "p2":"human, i remember you're <font color='#FF0000'>crash meshes</font>",
                 "p3":null
             }
         },
