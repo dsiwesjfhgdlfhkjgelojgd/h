@@ -231,7 +231,7 @@
         },
         "timer": {
             "visible": true,
-            "color": "#FFFFFF"
+            "color": "#FF00FF"
         },
         "background": {
             "visible": true,
