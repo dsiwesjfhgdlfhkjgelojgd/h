@@ -230,7 +230,7 @@
             "color": "#6F599F"
         },
         "timer": {
-            "visible": false,
+            "visible": true,
             "color": "#FFFFFF"
         },
         "background": {
