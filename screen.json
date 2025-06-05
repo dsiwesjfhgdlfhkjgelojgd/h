@@ -62,6 +62,43 @@
         ],
         "time":10,
         "event":{
+            "celebrationmk10":[
+                "It's party time, and after that it's party time.",
+                "Put up a disco ball and then I'll show you how to party.",
+                "We should set up a blinkroot party, and we should also set up an after-party.",
+                "Admin House: Celebration Update",
+                "Who likes to party?",
+                "We like to party!",
+                "Want a bloxy cola?",
+                "100% real industrial-grade trollium",
+                "The troll who trolled the party...",
+                "Gold peak is PEAK. Fight me.",
+                "Kaderth is party.",
+                ":trollparty:",
+                "hey there, would you like to sign my petition",
+                "Beware of the smiling bodies.",
+                "You do not recognize the bodies in the water.",
+                "<font color='#FF6600'>Don't ever do that again.</font>",
+                "\"Hey, I heard you're pretty strong.\" - Goku",
+                "I'm not gonna sugarcoat it.",
+                "A wall comprised primarily of flesh.",
+                "The end is never the end is never the end is never the end is never the end is never the end",
+                "Admin house community bicycle incident of 2024",
+                "Admin mansion community april fools incident of 2023",
+                "literally 1984",
+                "HEY KID WOULD YOU LIKE SOME [ HYPERLINK BLOCKED ] ???",
+                "Back onto that gakugen grind.",
+                "One must imagine sisyphus happy.",
+                "dear god what is that",
+                "Who lives in a pineapple under the sea?",
+                "Beware of ultra instinct users.",
+                ":kill all",
+                "You should think about that.",
+                "h",
+                "Did you know that the universe could go into false vacuum at <font color='#FF6600'>any moment</font>?",
+                "<font color='#FFFF00'>\"no\" - banana man</font>",
+                "human, i remember you're <font color='#FF0000'>crash meshes</font>"
+        ],
             "christmas":[
                 "Ho ho ho!",
                 "Happy holidays!",
@@ -213,9 +250,9 @@
     },
     "special":{
         "event": {
-            "name": "christmas",
-            "active": false,
-            "timestamp": 1736121600
+            "name": "celebrationmk10",
+            "active": true,
+            "timestamp": 1750374000
         },
         "celebrationmk10":true,
         "egg": {
