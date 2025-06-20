@@ -251,10 +251,10 @@
     "special":{
         "event": {
             "name": "celebrationmk10",
-            "active": true,
+            "active": false,
             "timestamp": 1750374000
         },
-        "celebrationmk10":true,
+        "celebrationmk10":false,
         "egg": {
             "forced": false,
             "forced2": false,
