@@ -216,7 +216,7 @@
     "visuals":{
         "p1": {
             "visible": true,
-            "text": "It's time to party!",
+            "text": "Waiting for next event...",
             "color": "#FFFFFF"
         },
         "p2": {
